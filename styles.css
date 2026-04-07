@@ -1,0 +1,11 @@
+
+body{font-family:Arial;margin:0;background:#f4f4f4;color:#111}
+.hero{height:420px;background:url('images/IMG_1105.jpeg') center/cover no-repeat;display:flex;align-items:center;justify-content:center;color:white;text-align:center}
+.hero-overlay{background:rgba(0,0,0,.6);padding:40px;border-radius:8px}
+.section{padding:60px 20px;text-align:center}
+.section.dark{background:#111;color:white}
+.button{background:#000;color:white;padding:14px 24px;text-decoration:none;border-radius:25px;display:inline-block;margin-top:15px}
+.gallery .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:15px;padding:20px}
+.gallery img{width:100%;border-radius:8px}
+.sponsor-img{max-width:420px;width:90%;margin:20px auto;display:block}
+footer{background:#000;color:white;text-align:center;padding:30px}
